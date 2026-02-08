@@ -1,0 +1,268 @@
+{
+    "extractionInfo": {
+          "source": "https://www.angle1.capital/",
+          "extractionDate": "2025-02-08",
+          "totalPagesExtracted": 9,
+          "extractionComplete": true,
+          "note": "Complete extraction of live published site only (no draft pages)"
+    },
+    "pages": [
+          {
+                  "pageId": "homepage",
+                  "title": "Angle One Capital",
+                  "url": "/",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "hero-1",
+                                        "type": "hero-section",
+                                        "content": "Exceptional ideas. Resilient Returns™. Angle One."
+                            },
+                            {
+                                        "id": "hero-2",
+                                        "type": "hero-section",
+                                        "content": "The financial world doesn't need another investment manager."
+                            },
+                            {
+                                        "id": "hero-3",
+                                        "type": "hero-section",
+                                        "content": "It needs a more discerning lens."
+                            },
+                            {
+                                        "id": "hero-4",
+                                        "type": "hero-section",
+                                        "content": "A curated forum dedicated to cultivating and sharing wisdom."
+                            },
+                            {
+                                        "id": "hero-5",
+                                        "type": "hero-section",
+                                        "content": "A toolkit evolved for a changing investment landscape."
+                            },
+                            {
+                                        "id": "footer",
+                              "type": "footer",
+                                        "content": "EVOLVE. ANGLE ONE. Resilient Returns™",
+                                        "cta": {
+                                                      "text": "Learn more →",
+                                                      "link": "/contact"
+                                        }
+                            }
+                  ]
+          },
+          {
+                  "pageId": "the-problem",
+                  "title": "The Problem New",
+                  "url": "/problem-1",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "hero-1",
+                                        "type": "hero-section",
+                                        "content": "The investing rules have changed.",
+                                        "accentWords": ["have changed"]
+                            },
+                            {
+                                        "id": "hero-2",
+                                        "type": "hero-section",
+                                        "content": "Decades-old market patterns are unraveling.",
+                                        "accentWords": ["unraveling"]
+                            },
+                            {
+                                        "id": "hero-3",
+                                        "type": "hero-section",
+                                        "content": "Risks that were once concealed are now exposed.",
+                                        "accentWords": ["are now"]
+                            },
+                            {
+                                        "id": "split-section",
+                                        "type": "split-layout",
+                                        "leftColumn": {
+                                                      "heading": "Conventional portfolios are unprepared.",
+                                                      "accentWords": ["unprepared"]
+                                        },
+                                        "rightColumn": {
+                                                      "paragraphs": [
+                                                                      "The past four decades were distinguished by an extraordinary confluence of steady economic growth, disinflation, and geopolitical stability—a constellation of factors that was unprecedented and is unlikely to be seen again.",
+                                                                      "In 2020, the financial landscape was redefined by the tectonic collision of monetary, economic, political, and social forces.",
+                                                                      "This upheaval fractured the long-standing order foundational to these strategies, and its initial reverberations have grown more pronounced in recent years—signaling a clear departure from past norms.",
+                                                                      "As the financial world transitions to an era characterized by disequilibrium and dislocations, the challenges and opportunities it presents are ones for which conventional portfolios are ill-prepared."
+                                                      ]
+                                        }
+                            },
+                            {
+                                        "id": "hero-4",
+                                        "type": "hero-section",
+                                        "content": "A new approach is necessary.",
+                                        "accentWords": ["necessary"]
+                            }
+                  ]
+          },
+          {
+                  "pageId": "what-we-do",
+                  "title": "What We Do New",
+                  "url": "/what-we-do2-1",
+                  "parentPageId": "our-solutions",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "hero-main",
+                                        "type": "hero-section",
+                                        "heading": "Angle One is a boutique investment partnership.",
+                                        "accentWords": ["investment partnership"],
+                                        "bodyText": "We aim to craft portfolios that deliver Resilient Returns™ in today's rapidly evolving marketplace. It is our goal to amplify and augment our partners' existing investment capabilities and empower them to steward capital more effectively and efficiently."
+                            },
+                            {
+                                        "id": "content-section",
+                                        "type": "text-section",
+                                        "content": "Our investment ideas, strategies, and tactics are born from a unique lens; forged through decades of experience; honed by independent thought, empirical research, and economic history; enriched through collaboration with Angle One Nexus members; and executed with the courage to challenge convention."
+                            }
+                  ]
+          },
+          {
+                  "pageId": "who-we-serve",
+                  "title": "Who We Serve",
+                  "url": "/who-we-serve",
+                  "parentPageId": "our-solutions",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "main-content",
+                                        "type": "text-section",
+                                        "heading": "Who We Serve",
+                                        "content": "We serve as a strategic advisor and collaborative partner to a select group of institutions, family offices, wealth stewards, entrepreneurs, and capital allocators."
+                            }
+                  ]
+          },
+          {
+                  "pageId": "advisory",
+                  "title": "Advisory",
+                  "url": "/advisory1",
+                  "parentPageId": "our-solutions",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "main-content",
+                                        "type": "text-section",
+                                        "heading": "Collaborative Advisory Creative, Resilient Solutions",
+                                        "content": "We serve our clients across a spectrum of advisory services—as a general advisor, specialty consultant, collaborator, outsourced Chief Investment Officer, and fiduciary—allowing us to customize not only client portfolios, but also to tailor our relationship with each client to help them realize their unique investment objectives."
+                            }
+                  ]
+          },
+          {
+                  "pageId": "strategies",
+                  "title": "Strategies",
+                  "url": "/strategies1",
+                  "parentPageId": "our-solutions",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "main-content",
+                                        "type": "text-section",
+                                        "heading": "Differentiated Investment Strategies For A Changing World",
+                                        "subheading": "An Evolved Toolkit: Fortify & Enhance",
+                                        "content": "We empower asset managers with the tools to build resilient, enduring portfolios. Our unique strategies are tailored to fortify portfolios against a range of risks and scenarios for which they may not have been designed—and to capitalize on opportunities arising from the momentous changes reshaping the investment landscape. These strategies are the culmination of our team's extensive experience spanning several decades in various investment domains, including hedge funds and family offices."
+                            }
+                  ]
+          },
+          {
+                  "pageId": "nexus",
+                  "title": "Nexus",
+                  "url": "/nexus3",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "hero-section",
+                                        "type": "hero-section",
+                                        "heading": "Angle One Nexus",
+                                        "subheading": "Catalyzing Resilient Growth",
+                                        "content": "We orchestrate a symphony of collaboration, guiding select wealth stewards, wealth creators, leaders, innovators, and visionaries to a Nexus rich with opportunities, innovation, and resources."
+                            },
+                            {
+                                        "id": "inspiration-section",
+                                        "type": "text-section",
+                                        "heading": "OUR INSPIRATION",
+                                        "subheading": "KEIRETSU 系列",
+                                        "content": "In the spirit of the Keiretsu model, Angle One intricately weaves a tapestry of deeply interconnected relationships, creating a dynamic, resilient ecosystem. Here, the growth of each member intertwines with and amplifies the ecosystem's success. Angle One forms the vital, dynamic hub—the Nexus—of our Keiretsu, where our ecosystem's opportunities, ideas, wisdom, and resources converge."
+                            }
+                  ]
+          },
+          {
+                  "pageId": "our-team",
+                  "title": "Our Team",
+                  "url": "/team",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "header",
+                                        "type": "text-section",
+                                        "content": "MEET THE Angle One Team"
+                            },
+                            {
+                                        "id": "leadership-section",
+                                        "type": "text-section",
+                "heading": "LEADERSHIP TEAM",
+                                        "content": "Our team brings elite institutional experience and proven execution for ultra-high-net-worth families, preserving and growing multigenerational wealth while delivering stress-tested investment leadership across growth, inflationary, and crisis-driven cycles. Our principals have led investment research and manager selection across major asset classes, designed strategic allocation frameworks for multi-billion-dollar portfolios, and chaired investment committees at leading multi-family offices. Our team has also contributed to the field's foundational literature and taught at top universities, reinforcing the intellectual rigor that underpins our disciplined approach."
+                            },
+                            {
+                                        "id": "advisory-council-section",
+                                        "type": "text-section",
+                                        "heading": "ADVISORY COUNCIL",
+                                        "content": "Our advisors are seasoned C-suite executives and recognized industry leaders, each deeply knowledgeable in specific domains. Their collective knowledge extends across a broad spectrum of financial and economic sectors. Additionally, our advisors encompass professionals with specialized expertise in key areas of investment management, including diverse hedge fund strategies, family offices, private equity and credit, real estate and hard assets, commodities, economic history, macroeconomic strategy, and risk management."
+                            }
+                  ]
+          },
+          {
+                  "pageId": "contact",
+                  "title": "Contact",
+                  "url": "/contact",
+                  "published": true,
+                  "sections": [
+                            {
+                                        "id": "contact-form",
+                                        "type": "contact-form",
+                                        "note": "Contact page contains a form - specific form fields need to be extracted from live site"
+                            }
+                  ]
+          }
+    ],
+    "navigation": {
+          "mainNav": [
+                  {
+                            "label": "The Problem",
+                            "url": "/problem-1"
+                  },
+                  {
+                            "label": "Our Solutions",
+                            "url": "/our-solutions",
+                            "hasDropdown": true,
+                            "subpages": [
+                                        {"label": "What We Do", "url": "/what-we-do2-1"},
+                                        {"label": "Who We Serve", "url": "/who-we-serve"},
+                                        {"label": "Advisory", "url": "/advisory1"},
+                                        {"label": "Strategies", "url": "/strategies1"}
+                            ]
+                  },
+                  {
+                            "label": "Nexus",
+                            "url": "/nexus3"
+                  },
+                  {
+                            "label": "Our Team",
+                            "url": "/team"
+                  },
+                  {
+                            "label": "Contact",
+                            "url": "/contact"
+                  }
+          ]
+    },
+    "globalStyling": {
+          "note": "All styling specifications are in site-config.json in repository root",
+          "colors": {
+                  "accent": "#FF9D00",
+                  "accentAlt": "#00D9FF",
+                  "text": "#FFFFFF",
+                  "background": "dark"
+          }
+    }
+}

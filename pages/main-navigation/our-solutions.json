@@ -1,0 +1,22 @@
+{
+    "pageId": "our-solutions",
+    "title": "Our Solutions",
+    "url": "/our-solutions",
+    "published": true,
+    "template": "parent-page",
+    "description": "Parent page for Our Solutions section",
+    "hasSubpages": true,
+    "subpages": [
+          "what-we-do",
+          "who-we-serve",
+          "advisory",
+          "strategies"
+    ],
+    "sections": [
+          {
+                  "id": "note",
+                  "type": "info",
+                  "content": "This is a parent/dropdown page. Content needs to be extracted from Squarespace."
+          }
+    ]
+}
